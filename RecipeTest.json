@@ -4,31 +4,31 @@
       "RecipeName": "Omelette",
       "RecipeDescription": "An omelette, a quick and customizable dish, is a savory delight made by whisking eggs with various fillings such as cheese, vegetables, and meats before cooking to fluffy perfection in a skillet.",
       "RecipeTime": "10 minutes",
-      "RecipeImage": "omelette.jpeg"
+      "RecipeImage": "https://raw.githubusercontent.com/akhanal5936/IT315/main/omelette.jpeg?token=GHSAT0AAAAAACR6BNOIHXEVVMNKYELTAFBOZRZLAZA"
     },
     {
       "RecipeName": "Pasta",
       "RecipeDescription": "Pasta, a beloved staple of Italian cuisine, is a versatile and comforting dish loved worldwide. Made from durum wheat flour and water, pasta dough is rolled and shaped into various forms, from classic spaghetti to intricate ravioli. Boiled to al dente perfection and paired with an array of sauces and toppings, pasta offers endless possibilities for delicious meals",
       "RecipeTime": "45 minutes",
-      "RecipeImage": "pasta.jpeg"
+      "RecipeImage": "https://raw.githubusercontent.com/akhanal5936/IT315/main/pasta.jpeg?token=GHSAT0AAAAAACR6BNOIYZVA7ZSNJGFNCRHKZRZMAMQ"
     },
     {
       "RecipeName": "Pizza",
       "RecipeDescription": "Embark on a culinary adventure with our exquisite pizza recipes that will ignite your senses and transport you to the vibrant streets of Italy! From the simplicity of a traditional Margherita to the complexity of a loaded Supreme, each pizza in this collection is a celebration of flavor and craftsmanship.  These Pizza recipes are made for you and for you to have an unforgettable meal with your loved ones!",
       "RecipeTime": "95 minutes",
-      "RecipeImage": "pizza.jpeg"
+      "RecipeImage": "https://raw.githubusercontent.com/akhanal5936/IT315/main/pizza.jpeg?token=GHSAT0AAAAAACR6BNOJ7KLNDTM2BLOIPMIYZRZMAOQ"
     },
     {
       "RecipeName": "Ramen",
       "RecipeDescription": "Ramen, a beloved Japanese noodle soup, is a comforting bowl of chewy noodles submerged in a flavorful broth, typically made with a combination of savory stock, soy sauce, and miso, topped with an assortment of ingredients like sliced pork, soft-boiled egg, and nori.",
       "RecipeTime": "5 minutes",
-      "RecipeImage": "ramen.jpeg"
+      "RecipeImage": "https://raw.githubusercontent.com/akhanal5936/IT315/main/ramen.jpeg?token=GHSAT0AAAAAACR6BNOI5UGMSJU5LVTZNRUGZRZMAQA"
     },
     {
       "RecipeName": "Vanilla Cookies",
       "RecipeDescription": "Vanilla cookies, simple yet satisfying treats, are made by combining butter, sugar, flour, and fragrant vanilla extract into a dough that is shaped into cookies and baked until golden brown, resulting in delicate delights perfect for any occasion.",
       "RecipeTime": "105 minutes",
-      "RecipeImage": "vanilla.jpeg"
+      "RecipeImage": "https://raw.githubusercontent.com/akhanal5936/IT315/main/vanilla.jpeg?token=GHSAT0AAAAAACR6BNOJUPCHLREON3M63COGZRZMASA"
     }
   ],
   "Status": "OK"
